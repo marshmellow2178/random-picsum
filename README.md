@@ -1,12 +1,9 @@
-# React + Vite
+## Random Images
+<img width="915" height="761" alt="image" src="https://github.com/user-attachments/assets/440912c7-60bb-42d7-a34d-d511d904e49f" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+> Lorem Picsum 사이트의 이미지를 페이지/개수 별로 미리보기 가능 
+- Vite + React, 간단한 부트스트랩 CSS
+- Demo : https://marshmellow2178.github.io/random-picsum/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
